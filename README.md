@@ -1,1 +1,3 @@
 # Twitter-Sentiment-Analysis
+
+From this program anyone can analyse the sentiment of recent tweets by using trending hastag.
